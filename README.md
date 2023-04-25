@@ -12,5 +12,4 @@
 <h3>Python for Data Analysis</h3>
 (https://www.sisense.com/glossary/python-for-data-analysis/)
 
-![Image link for inspiring for this cohort]
-
+![image](https://www.sandboxx.us/wp-content/uploads/2018/02/sandboxx151.png.webp)

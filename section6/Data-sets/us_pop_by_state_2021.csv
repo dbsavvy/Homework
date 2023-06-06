@@ -1,52 +1,53 @@
-Rank,State,FIPS Code,Population
-24,Alabama,1000,"5,074,296"
-48,Alaska,2000,"733,583"
-14,Arizona,4000,"7,359,197"
-33,Arkansas,5000,"3,045,637"
-1,California,6000,"39,029,342"
-21,Colorado,8000,"5,839,926"
-29,Connecticut,9000,"3,626,205"
-45,Delaware,10000,"1,018,396"
-49,District of Columbia,11000,"671,803"
-3,Florida,12000,"22,244,823"
-8,Georgia,13000,"10,912,876"
-40,Hawaii,15000,"1,440,196"
-38,Idaho,16000,"1,939,033"
-6,Illinois,17000,"12,582,032"
-17,Indiana,18000,"6,833,037"
-31,Iowa,19000,"3,200,517"
-35,Kansas,20000,"2,937,150"
-26,Kentucky,21000,"4,512,310"
-25,Louisiana,22000,"4,590,241"
-42,Maine,23000,"1,385,340"
-19,Maryland,24000,"6,164,660"
-16,Massachusetts,25000,"6,981,974"
-10,Michigan,26000,"10,034,113"
-22,Minnesota,27000,"5,717,184"
-34,Mississippi,28000,"2,940,057"
-18,Missouri,29000,"6,177,957"
-43,Montana,30000,"1,122,867"
-37,Nebraska,31000,"1,967,923"
-32,Nevada,32000,"3,177,772"
-41,New Hampshire,33000,"1,395,231"
-11,New Jersey,34000,"9,261,699"
-36,New Mexico,35000,"2,113,344"
-4,New York,36000,"19,677,151"
-9,North Carolina,37000,"10,698,973"
-47,North Dakota,38000,"779,261"
-7,Ohio,39000,"11,756,058"
-28,Oklahoma,40000,"4,019,800"
-27,Oregon,41000,"4,240,137"
-5,Pennsylvania,42000,"12,972,008"
-44,Rhode Island,44000,"1,093,734"
-23,South Carolina,45000,"5,282,634"
-46,South Dakota,46000,"909,824"
-15,Tennessee,47000,"7,051,339"
-2,Texas,48000,"30,029,572"
-30,Utah,49000,"3,380,800"
-50,Vermont,50000,"647,064"
-12,Virginia,51000,"8,683,619"
-13,Washington,53000,"7,785,786"
-39,West Virginia,54000,"1,775,156"
-20,Wisconsin,55000,"5,892,539"
-51,Wyoming,56000,"581,381"
+State,Population,
+Alabama,"5,039,877",
+Alaska,"732,673",
+Arizona,"7,276,316",
+Arkansas,"3,025,891",
+California,"39,237,836",
+Colorado,"5,812,069",
+Connecticut,"3,605,597",
+Delaware,"1,003,384",
+District of Columbia,"670,050",
+Florida,"21,781,128",
+Georgia,"10,799,566",
+Hawaii,"1,441,553",
+Idaho,"1,900,923",
+Illinois,"12,671,469",
+Indiana,"6,805,985",
+Iowa,"3,193,079",
+Kansas,"2,934,582",
+Kentucky,"4,509,394",
+Louisiana,"4,624,047",
+Maine,"1,372,247",
+Maryland,"6,165,129",
+Massachusetts,"6,984,723",
+Michigan,"10,050,811",
+Minnesota,"5,707,390",
+Mississippi,"2,949,965",
+Missouri,"6,168,187",
+Montana,"1,104,271",
+Nebraska,"1,963,692",
+Nevada,"3,143,991",
+New Hampshire,"1,388,992",
+New Jersey,"9,267,130",
+New Mexico,"2,115,877",
+New York,"19,835,913",
+North Carolina,"10,551,162",
+North Dakota,"774,948",
+Ohio,"11,780,017",
+Oklahoma,"3,986,639",
+Oregon,"4,246,155",
+Pennsylvania,"12,964,056",
+Rhode Island,"1,095,610",
+South Carolina,"5,190,705",
+South Dakota,"895,376",
+Tennessee,"6,975,218",
+Texas,"29,527,941",
+Utah,"3,337,975",
+Vermont,"645,570",
+Virginia,"8,642,274",
+Washington,"7,738,692",
+West Virginia,"1,782,959",
+Wisconsin,"5,895,908",
+Wyoming,"578,803",
+US Total,"331,893,745",

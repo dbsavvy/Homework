@@ -63,10 +63,10 @@ ORDER by 2,3 DESC
 
 4. Using EVCharging, Write a query to find out how many many times those stations were used. Order them by the most used to the least used and limit the output to 5 records.
 
-SELECT stationId, count(userID)as userct
+SELECT stationId, count(stationID)as numstations
 FROM EVCharging
 GROUP by 1
-order by 2 DESC
+order by count(stationID) DESC
 LIMIT 5
 
 
@@ -91,7 +91,7 @@ SELECT
 weekday, round(avg(chargeTimeHrs),2) as avg_charge_time
 FROM EVCharging
 GROUP BY 1
-ORDER BY 2 DESC;
+ORDER BY avg(chargeTimeHrs) DESC;
 
 
 2. Using, EV charging, Find the total power consumed from charging EV's by each User. Return the `userId` and name the calculated column, `totalPower`. Round the answer to 2 deciaml points and list the out put in highest to lowest order. Limit the order to the top 15 users.
